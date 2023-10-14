@@ -3,5 +3,15 @@
     "express": "^4.18.2",
     "hbs": "^4.2.0",
     "mongoose": "^7.5.2"
-  }
+  },
+  "name": "02.-login_signup",
+  "description": "\"# Login-signUP\"",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
